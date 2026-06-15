@@ -1,0 +1,251 @@
+CustomerID,Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,PreferredPaymentMode,Gender,HourSpendOnApp,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromLastYear,CouponUsed,OrderCount,DaySinceLastOrder,CashbackAmount,Churn
+CUST1000,39,Desktop,Tier 2,26,Credit Card,Female,0.6,4,Fashion,4.0,Married,3,No,35.0,1,25,44,73.12,0
+CUST1001,52,Desktop,Tier 1,44,E-wallet,Female,4.1,3,Fashion,1.0,Single,2,No,47.6,3,39,27,70.74,0
+CUST1002,29,Desktop,Tier 3,25,E-wallet,Female,2.1,4,Fashion,1.0,Married,3,No,5.3,2,28,20,60.5,0
+CUST1003,15,Mobile,Tier 3,17,E-wallet,Male,3.1,4,Groceries,2.0,Single,1,Yes,19.2,0,33,12,195.07,0
+CUST1004,43,Mobile,Tier 2,13,E-wallet,Female,6.3,2,Home,5.0,Married,2,No,56.5,1,37,26,34.02,0
+CUST1005,8,Desktop,Tier 2,20,E-wallet,Female,7.6,4,Fashion,1.0,Single,1,No,32.2,1,9,6,179.65,0
+CUST1006,21,Desktop,Tier 2,25,COD,Female,1.0,2,Beauty,4.0,Married,2,No,38.3,3,18,21,155.36,0
+CUST1007,39,Tablet,Tier 1,4,Debit Card,Female,4.5,2,Home,3.0,Married,3,No,30.3,0,21,73,15.3,0
+CUST1008,58,Desktop,Tier 3,10,Credit Card,Male,7.1,2,Electronics,3.0,Single,2,No,3.1,2,2,52,197.35,1
+CUST1009,19,Desktop,Tier 2,3,Debit Card,Male,1.1,1,Home,3.0,Single,2,No,11.6,1,38,78,54.27,0
+CUST1010,23,Mobile,Tier 3,41,Credit Card,Female,6.7,1,Groceries,5.0,Married,1,Yes,31.2,0,36,78,,1
+CUST1011,11,Tablet,Tier 1,45,E-wallet,Female,3.2,4,Groceries,2.0,Married,1,No,14.6,2,37,3,165.86,0
+CUST1012,11,Desktop,Tier 3,18,COD,Female,2.9,2,Fashion,4.0,Single,2,No,3.5,1,15,22,141.34,0
+CUST1013,24,Mobile,Tier 2,47,Credit Card,Female,7.8,1,Groceries,5.0,Married,3,No,59.1,1,28,69,123.44,0
+CUST1014,53,Mobile,Tier 1,36,Credit Card,Female,2.0,2,Fashion,4.0,Divorced,3,No,68.7,2,18,87,31.2,0
+CUST1015,36,Desktop,Tier 3,47,Credit Card,Female,5.7,3,Groceries,4.0,Married,1,Yes,55.5,2,34,83,95.7,1
+CUST1016,40,Mobile,Tier 1,22,E-wallet,Male,6.7,3,Groceries,2.0,Single,3,No,59.8,3,22,83,156.11,0
+CUST1017,24,Mobile,Tier 1,34,E-wallet,Female,0.8,3,Groceries,3.0,Married,1,No,16.9,0,11,75,60.72,0
+CUST1018,3,Mobile,Tier 3,47,Credit Card,Male,5.5,4,Groceries,2.0,Single,3,No,67.2,0,13,32,62.34,0
+CUST1019,22,Mobile,Tier 3,8,COD,Male,7.6,2,Groceries,5.0,Divorced,2,Yes,13.8,3,4,27,0.63,1
+CUST1020,53,Mobile,Tier 2,40,E-wallet,Other,1.4,3,Electronics,5.0,Married,1,No,66.6,1,22,7,34.85,0
+CUST1021,2,Desktop,Tier 2,49,Credit Card,Male,7.2,1,Electronics,5.0,Single,1,No,69.6,2,7,0,175.08,0
+CUST1022,24,Mobile,Tier 2,44,E-wallet,Male,5.0,3,Home,2.0,Married,2,No,49.8,2,24,36,88.35,0
+CUST1023,44,Desktop,Tier 1,19,E-wallet,Male,5.1,3,Fashion,4.0,Single,1,No,68.7,2,4,62,196.85,0
+CUST1024,30,Desktop,Tier 1,42,Debit Card,Female,5.1,3,Electronics,4.0,Divorced,3,No,39.9,1,28,21,,0
+CUST1025,38,Desktop,Tier 2,41,Credit Card,Male,2.7,4,Electronics,1.0,Divorced,3,No,18.2,2,15,69,143.04,0
+CUST1026,2,Mobile,Tier 2,37,Credit Card,Male,7.5,1,Fashion,5.0,Married,1,Yes,30.6,2,1,20,56.38,0
+CUST1027,21,Mobile,Tier 2,6,Credit Card,Male,7.6,2,Beauty,4.0,Single,3,No,41.5,3,3,34,72.76,0
+CUST1028,33,Desktop,Tier 2,52,E-wallet,Male,5.2,1,Groceries,1.0,Married,1,Yes,5.1,1,14,78,38.15,1
+CUST1029,12,,Tier 1,26,COD,Male,6.4,2,Beauty,4.0,Single,2,No,43.6,0,38,4,69.41,0
+CUST1030,58,Desktop,Tier 2,34,Credit Card,Male,5.1,4,Groceries,5.0,Single,1,No,68.7,3,1,59,109.45,0
+CUST1031,22,Mobile,Tier 1,59,Credit Card,Female,4.1,4,Fashion,3.0,Married,2,Yes,13.3,3,38,45,198.35,0
+CUST1032,44,Desktop,Tier 2,56,Credit Card,Male,5.5,4,Fashion,5.0,Single,3,No,55.5,0,38,49,132.84,0
+CUST1033,25,Mobile,Tier 2,59,Credit Card,Male,4.6,4,Groceries,2.0,Single,2,Yes,63.6,3,21,47,39.85,0
+CUST1034,49,Mobile,Tier 3,45,E-wallet,Male,5.0,2,Electronics,4.0,Divorced,3,No,66.1,1,29,5,8.99,0
+CUST1035,27,Tablet,Tier 2,6,Debit Card,Male,6.4,3,Home,4.0,Single,1,No,67.2,2,5,88,25.27,0
+CUST1036,59,Desktop,Tier 1,37,Debit Card,Female,4.1,2,Home,2.0,Single,3,Yes,36.5,1,10,55,112.51,0
+CUST1037,42,Desktop,Tier 1,57,Credit Card,Female,0.8,1,Fashion,2.0,Married,1,No,68.4,0,28,58,153.03,0
+CUST1038,28,Desktop,Tier 2,33,E-wallet,Male,1.7,4,Beauty,3.0,Single,1,No,53.0,0,21,28,188.08,0
+CUST1039,16,Tablet,Tier 2,53,Debit Card,Male,3.8,4,Home,4.0,Married,2,No,11.3,3,7,70,3.16,0
+CUST1040,15,Mobile,Tier 1,22,E-wallet,Male,5.9,1,Groceries,4.0,Divorced,2,Yes,33.4,1,3,76,104.55,1
+CUST1041,47,Desktop,Tier 1,21,Credit Card,Female,4.9,2,Electronics,3.0,Married,2,No,50.3,1,20,17,94.17,0
+CUST1042,51,Mobile,Tier 2,6,E-wallet,Female,5.4,3,Fashion,1.0,Married,2,No,17.3,0,19,1,131.21,0
+CUST1043,44,Mobile,Tier 1,6,E-wallet,Female,4.1,3,Groceries,3.0,Single,3,No,44.8,1,35,7,111.92,0
+CUST1044,55,Mobile,Tier 3,55,Credit Card,Male,5.1,1,Fashion,5.0,Single,3,Yes,46.7,0,4,74,137.41,1
+CUST1045,52,Mobile,Tier 2,48,Debit Card,Female,3.0,3,Electronics,4.0,Married,3,Yes,11.4,1,5,53,131.62,1
+CUST1046,57,Desktop,Tier 1,4,COD,Male,4.0,2,Home,2.0,Married,1,No,39.6,1,1,37,23.4,1
+CUST1047,3,Desktop,Tier 1,30,COD,Male,6.1,2,Electronics,5.0,Married,3,No,54.0,1,4,47,159.94,0
+CUST1048,37,Mobile,Tier 3,11,Debit Card,Male,7.0,1,Groceries,4.0,Single,3,No,34.9,0,12,26,24.65,0
+CUST1049,51,Tablet,Tier 2,30,Debit Card,Male,3.8,2,Beauty,3.0,Single,3,No,0.8,3,27,19,139.71,0
+CUST1050,7,Mobile,Tier 2,31,COD,Female,0.8,4,Home,5.0,Single,2,No,0.6,1,23,11,83.23,0
+CUST1051,21,Desktop,Tier 3,24,E-wallet,Female,1.7,1,Fashion,4.0,Married,3,No,25.0,0,25,42,102.77,0
+CUST1052,9,Desktop,Tier 3,55,Credit Card,Male,0.7,2,Home,1.0,Single,1,No,64.8,0,21,60,180.66,0
+CUST1053,39,Mobile,Tier 3,9,COD,Female,5.4,1,Electronics,1.0,Married,2,No,16.0,1,24,30,177.98,0
+CUST1054,18,Mobile,Tier 2,55,Credit Card,Other,3.0,3,Electronics,2.0,Married,1,No,44.4,1,25,60,163.57,0
+CUST1055,4,Mobile,Tier 2,3,E-wallet,Female,4.6,2,Groceries,4.0,Single,3,No,15.5,3,32,73,102.03,0
+CUST1056,25,Mobile,Tier 1,51,Credit Card,Female,4.2,4,Fashion,1.0,Married,2,No,22.5,0,32,66,147.25,0
+CUST1057,14,Mobile,Tier 2,31,Credit Card,Female,1.1,2,Fashion,3.0,Single,1,No,59.4,0,5,34,102.58,0
+CUST1058,50,Desktop,Tier 2,40,Debit Card,Other,3.5,1,Groceries,4.0,Married,3,No,51.0,2,36,14,173.92,0
+CUST1059,58,Desktop,Tier 2,37,E-wallet,Female,2.2,1,Electronics,3.0,Married,1,No,6.7,0,39,15,80.56,0
+CUST1060,9,Mobile,Tier 3,36,Credit Card,Male,3.6,2,Electronics,3.0,Married,1,No,30.0,3,16,12,194.05,0
+CUST1061,26,Mobile,Tier 1,24,Credit Card,Male,2.0,4,Fashion,1.0,Married,1,No,2.0,2,33,34,186.46,0
+CUST1062,53,Desktop,Tier 2,31,Credit Card,Female,6.8,4,Home,4.0,Single,3,Yes,33.7,2,21,74,148.32,0
+CUST1063,2,Desktop,Tier 1,6,,Male,1.8,4,Groceries,5.0,Single,3,No,46.4,2,9,58,55.88,0
+CUST1064,20,Mobile,Tier 2,2,COD,Female,7.7,1,Fashion,1.0,Married,1,No,8.3,1,6,20,26.33,1
+CUST1065,28,Desktop,Tier 1,20,Debit Card,Male,3.6,2,Fashion,1.0,Single,2,No,20.2,1,35,53,170.94,0
+CUST1066,47,Desktop,Tier 1,28,E-wallet,Male,6.8,3,Electronics,4.0,Single,2,No,27.8,0,39,74,33.06,0
+CUST1067,7,Mobile,Tier 1,11,COD,Male,5.2,1,Electronics,4.0,Single,3,No,64.4,2,22,29,170.85,0
+CUST1068,44,Mobile,Tier 2,4,Debit Card,Male,6.0,4,Home,3.0,Married,3,Yes,69.5,3,5,47,98.15,1
+CUST1069,8,Mobile,Tier 2,15,Credit Card,Female,6.3,2,Fashion,4.0,Single,3,No,3.1,1,23,34,81.31,0
+CUST1070,47,Desktop,Tier 2,6,Credit Card,Female,4.3,4,Electronics,3.0,Married,3,No,53.3,3,17,85,180.64,0
+CUST1071,35,Mobile,Tier 3,54,,Female,4.6,3,Groceries,1.0,Divorced,3,No,26.0,3,12,37,120.77,0
+CUST1072,14,Desktop,Tier 2,49,,Female,4.4,4,Groceries,2.0,Single,2,No,27.5,1,23,30,115.32,0
+CUST1073,17,Desktop,Tier 1,30,Debit Card,Male,4.9,4,Groceries,5.0,Single,3,No,52.8,1,16,77,111.75,0
+CUST1074,36,Mobile,Tier 3,56,E-wallet,Female,0.7,3,Fashion,1.0,Single,1,No,64.3,1,3,23,74.23,1
+CUST1075,50,Mobile,Tier 1,38,Debit Card,Female,3.5,2,Fashion,4.0,Married,1,No,66.6,1,30,48,157.13,0
+CUST1076,40,Mobile,Tier 3,51,Debit Card,Female,5.0,1,Fashion,5.0,Single,2,Yes,40.4,2,22,31,50.56,0
+CUST1077,4,Mobile,Tier 1,57,E-wallet,Male,5.0,2,Electronics,2.0,Single,1,No,25.0,2,9,54,187.78,0
+CUST1078,2,Mobile,Tier 3,2,Debit Card,Female,6.4,3,Groceries,2.0,Single,2,No,55.1,2,29,78,178.8,0
+CUST1079,6,Desktop,Tier 1,15,E-wallet,Female,5.4,4,Home,3.0,Married,2,No,17.6,2,37,57,67.5,0
+CUST1080,54,Mobile,Tier 3,11,E-wallet,Other,7.9,2,Groceries,5.0,Single,1,No,39.5,0,23,2,145.89,0
+CUST1081,42,Desktop,Tier 2,8,Credit Card,Female,2.6,1,Home,3.0,Married,3,Yes,25.1,2,13,79,114.64,0
+CUST1082,4,Desktop,Tier 3,26,E-wallet,Male,3.2,3,Fashion,1.0,Married,1,No,46.0,1,32,68,67.53,0
+CUST1083,54,Tablet,Tier 1,51,Debit Card,Female,3.4,2,Groceries,5.0,Single,1,Yes,16.8,3,23,84,197.7,0
+CUST1084,29,Mobile,Tier 2,45,Debit Card,Female,4.0,1,Fashion,1.0,Married,2,No,13.4,2,17,9,5.05,0
+CUST1085,18,Mobile,Tier 3,44,Debit Card,Male,6.8,3,Groceries,3.0,Single,1,No,64.3,0,21,82,50.53,0
+CUST1086,26,Mobile,Tier 2,5,Debit Card,Female,2.3,1,Fashion,5.0,Married,2,Yes,7.1,1,2,24,104.01,0
+CUST1087,44,Mobile,Tier 2,6,E-wallet,Female,6.3,3,Electronics,3.0,Married,3,No,35.4,3,37,67,104.39,0
+CUST1088,34,Mobile,Tier 2,26,,Male,3.5,4,Fashion,5.0,Married,3,Yes,15.5,3,6,60,117.79,1
+CUST1089,10,Mobile,Tier 2,54,Debit Card,Male,5.0,2,Beauty,3.0,Single,3,No,2.7,2,18,28,150.34,0
+CUST1090,36,Mobile,Tier 2,4,Credit Card,Male,5.2,1,Fashion,2.0,Single,1,No,2.5,3,30,18,124.7,0
+CUST1091,14,Desktop,Tier 2,19,E-wallet,Male,3.3,3,Electronics,3.0,Single,2,Yes,12.3,2,22,42,120.06,0
+CUST1092,31,Mobile,Tier 3,20,Credit Card,Male,4.3,1,Fashion,2.0,Single,3,No,60.7,2,33,65,10.7,0
+CUST1093,48,Desktop,Tier 1,33,COD,Female,3.6,1,Home,3.0,Single,2,Yes,19.8,1,30,73,75.31,0
+CUST1094,15,Desktop,Tier 1,20,Debit Card,Male,1.0,2,Groceries,5.0,Single,2,No,66.5,1,17,60,46.41,0
+CUST1095,8,Mobile,Tier 3,49,E-wallet,Male,3.8,4,Groceries,5.0,Single,3,No,40.7,0,32,42,53.07,0
+CUST1096,14,Desktop,Tier 3,12,COD,Female,1.2,1,Electronics,5.0,Single,3,No,30.6,1,14,24,,0
+CUST1097,23,Tablet,Tier 2,47,E-wallet,Female,3.5,3,Groceries,4.0,Married,2,Yes,40.6,1,10,19,39.9,0
+CUST1098,57,Tablet,Tier 2,1,COD,Male,4.9,3,Fashion,1.0,Married,3,No,36.2,2,36,47,58.79,0
+CUST1099,40,Tablet,Tier 1,26,Debit Card,Male,4.8,4,Home,5.0,Single,2,No,53.1,1,34,82,47.42,0
+CUST1100,21,Mobile,Tier 1,14,E-wallet,Male,5.5,3,Groceries,2.0,Single,2,No,19.8,2,9,86,189.7,1
+CUST1101,16,Desktop,Tier 2,38,Credit Card,Female,1.2,4,Electronics,5.0,Single,3,No,24.7,2,28,23,188.93,0
+CUST1102,45,Tablet,Tier 2,37,Credit Card,Male,5.4,3,Electronics,4.0,Divorced,1,No,62.6,1,11,10,121.99,0
+CUST1103,18,Mobile,Tier 2,11,Debit Card,Female,2.8,2,Electronics,2.0,Single,3,No,66.3,0,14,54,184.9,0
+CUST1104,47,Tablet,Tier 1,36,,Female,3.5,1,Fashion,4.0,Married,1,No,62.5,0,39,27,157.16,0
+CUST1105,53,Tablet,Tier 3,13,Debit Card,Male,6.9,2,Fashion,2.0,Divorced,2,No,29.4,3,19,68,117.99,0
+CUST1106,24,Mobile,Tier 3,43,E-wallet,Female,0.6,1,Groceries,3.0,Married,2,No,54.6,3,15,62,1.29,0
+CUST1107,26,Desktop,Tier 2,3,COD,Other,4.9,1,Fashion,1.0,Married,1,No,33.3,1,28,58,154.5,0
+CUST1108,25,Mobile,Tier 2,33,E-wallet,Male,5.0,1,Fashion,1.0,Married,2,Yes,34.8,0,24,4,140.5,0
+CUST1109,45,Mobile,Tier 1,6,E-wallet,Female,3.5,2,Electronics,4.0,Divorced,1,No,14.3,2,8,50,123.05,0
+CUST1110,41,Desktop,Tier 3,50,E-wallet,Female,2.3,1,Electronics,,Married,1,No,41.4,3,9,20,,0
+CUST1111,29,Desktop,Tier 2,56,COD,Female,2.3,2,Home,4.0,Married,2,No,13.0,2,33,11,102.58,0
+CUST1112,15,Mobile,Tier 1,10,E-wallet,Female,7.1,4,Fashion,4.0,Married,1,No,23.2,3,33,49,140.82,0
+CUST1113,45,Tablet,Tier 3,5,E-wallet,Female,3.8,3,Groceries,4.0,Married,3,No,59.9,1,19,3,187.03,0
+CUST1114,1,Mobile,Tier 3,23,COD,Female,3.0,3,Home,1.0,Married,3,Yes,14.5,0,3,41,75.16,1
+CUST1115,25,Mobile,Tier 3,10,COD,Female,3.9,1,Groceries,4.0,Single,2,Yes,5.0,3,10,83,141.62,1
+CUST1116,7,,Tier 2,44,Credit Card,Female,5.5,2,Home,1.0,Single,2,No,4.8,0,1,37,95.14,0
+CUST1117,9,Mobile,Tier 2,2,Debit Card,Female,1.6,3,Fashion,4.0,Single,1,No,65.9,2,29,24,134.88,0
+CUST1118,24,Tablet,Tier 2,13,Debit Card,Female,3.9,2,Beauty,5.0,Single,1,No,35.5,1,34,13,152.58,0
+CUST1119,1,Desktop,Tier 3,40,Credit Card,Male,4.9,2,Electronics,4.0,Single,1,No,28.7,0,13,74,9.09,0
+CUST1120,44,Mobile,Tier 3,2,E-wallet,Male,7.6,1,Electronics,2.0,Single,1,No,56.8,1,1,31,129.32,0
+CUST1121,8,Mobile,Tier 1,20,E-wallet,Male,2.4,3,Groceries,4.0,Married,3,No,58.5,0,34,10,45.35,0
+CUST1122,24,Mobile,Tier 1,1,E-wallet,Male,3.2,1,Beauty,3.0,Single,3,No,23.3,2,29,60,134.01,0
+CUST1123,11,Mobile,Tier 2,37,Credit Card,Male,3.3,1,Home,4.0,Married,2,Yes,48.6,2,13,17,93.67,0
+CUST1124,51,Mobile,Tier 3,9,COD,Female,5.0,3,Electronics,2.0,Single,1,No,54.0,1,29,26,154.71,0
+CUST1125,17,,Tier 3,17,E-wallet,Male,3.2,3,Fashion,2.0,Single,1,No,45.8,2,39,54,24.68,0
+CUST1126,8,Desktop,Tier 1,9,E-wallet,Female,4.5,4,Beauty,1.0,Married,2,Yes,10.6,3,24,53,125.26,0
+CUST1127,35,Mobile,Tier 2,11,COD,Male,6.4,4,Fashion,5.0,Married,1,No,61.3,0,26,81,55.69,0
+CUST1128,35,Mobile,Tier 2,15,E-wallet,Female,5.8,2,Home,4.0,Single,1,No,37.7,2,17,86,170.6,0
+CUST1129,33,Mobile,Tier 3,24,Debit Card,Female,3.8,3,Home,1.0,Married,1,No,19.8,3,7,74,185.68,1
+CUST1130,59,Tablet,Tier 3,38,E-wallet,Male,7.0,4,Fashion,5.0,Married,1,No,29.8,1,13,20,199.28,0
+CUST1131,5,Mobile,Tier 3,55,Debit Card,Female,4.7,2,Fashion,4.0,Single,1,No,2.6,3,5,43,159.2,0
+CUST1132,42,Mobile,Tier 2,35,Credit Card,Male,4.5,2,Fashion,3.0,Single,2,No,9.0,1,26,4,150.75,0
+CUST1133,39,Mobile,Tier 2,30,E-wallet,Female,0.8,2,Fashion,4.0,Divorced,1,No,53.6,1,3,86,43.1,0
+CUST1134,58,Mobile,Tier 1,31,Debit Card,Male,7.9,4,Home,2.0,Married,2,No,0.0,0,7,40,67.2,0
+CUST1135,41,,Tier 1,49,E-wallet,Female,1.4,3,Fashion,2.0,Married,1,Yes,29.2,0,39,58,93.14,1
+CUST1136,28,Mobile,Tier 3,5,Debit Card,Male,2.2,1,Home,3.0,Married,3,No,36.6,3,1,88,154.68,0
+CUST1137,7,Mobile,Tier 3,44,COD,Female,0.9,2,Electronics,1.0,Single,3,No,3.8,0,17,53,182.99,0
+CUST1138,9,Desktop,Tier 3,50,Credit Card,Female,5.3,4,Beauty,5.0,Single,3,No,68.1,0,25,73,37.83,0
+CUST1139,8,Mobile,Tier 3,14,COD,Male,2.2,4,Fashion,4.0,Single,3,No,15.8,0,3,21,184.47,0
+CUST1140,12,Desktop,Tier 2,53,E-wallet,Male,1.9,1,Electronics,2.0,Married,2,No,21.3,3,15,82,139.12,0
+CUST1141,34,Mobile,Tier 2,56,Credit Card,Male,1.2,1,Electronics,1.0,Married,2,No,21.3,2,29,64,122.15,0
+CUST1142,33,Desktop,Tier 3,11,E-wallet,Male,1.3,4,Groceries,3.0,Married,1,No,16.1,0,32,63,39.97,0
+CUST1143,48,Mobile,Tier 3,9,COD,Female,4.9,3,Groceries,2.0,Single,3,No,0.1,0,26,70,11.11,1
+CUST1144,55,Mobile,Tier 1,34,Debit Card,Male,5.7,1,Home,3.0,Single,2,No,51.1,3,16,3,113.69,0
+CUST1145,23,Desktop,Tier 2,12,Credit Card,Male,3.5,4,Electronics,4.0,Married,1,No,67.7,2,25,64,130.3,0
+CUST1146,24,Mobile,Tier 1,35,Debit Card,Male,4.1,1,Electronics,5.0,Married,1,No,15.7,0,28,14,42.16,0
+CUST1147,37,Desktop,Tier 3,35,Debit Card,Female,5.6,3,Groceries,2.0,Married,2,No,46.4,1,9,75,111.29,0
+CUST1148,35,Desktop,Tier 2,1,E-wallet,Male,0.6,2,Fashion,2.0,Single,3,Yes,51.9,3,1,21,171.3,1
+CUST1149,44,Mobile,Tier 1,40,E-wallet,Male,2.9,1,Fashion,4.0,Married,1,No,59.4,0,29,85,167.01,0
+CUST1150,40,Mobile,Tier 2,22,Debit Card,Male,7.8,3,Beauty,1.0,Single,3,No,29.6,0,22,46,185.47,0
+CUST1151,22,Desktop,Tier 2,29,Credit Card,Male,4.9,4,Beauty,5.0,Divorced,3,No,21.2,1,16,80,73.18,0
+CUST1152,27,Mobile,Tier 2,8,E-wallet,Female,2.4,1,Beauty,2.0,Single,3,No,22.8,1,7,45,63.61,0
+CUST1153,35,Mobile,Tier 1,11,Debit Card,Male,4.4,1,Home,5.0,Married,1,No,49.9,3,14,13,149.89,0
+CUST1154,1,Desktop,Tier 2,41,Credit Card,Male,3.1,4,Fashion,2.0,Single,3,No,57.2,3,29,49,86.22,0
+CUST1155,35,Mobile,Tier 2,37,COD,Female,4.5,2,Fashion,5.0,Married,1,No,12.7,1,19,19,17.51,0
+CUST1156,37,Desktop,Tier 2,14,E-wallet,Female,1.4,4,Groceries,3.0,Married,3,No,26.0,3,19,49,56.56,0
+CUST1157,47,Desktop,Tier 2,30,E-wallet,Male,1.5,1,Home,2.0,Single,1,No,63.1,1,2,32,83.72,0
+CUST1158,14,Mobile,Tier 3,35,E-wallet,Female,1.6,4,Electronics,5.0,Single,3,No,56.5,0,15,58,58.5,0
+CUST1159,3,Mobile,Tier 2,21,Debit Card,Female,7.5,3,Fashion,1.0,Single,2,Yes,68.9,1,3,42,66.44,1
+CUST1160,1,Mobile,Tier 2,37,E-wallet,Male,6.0,4,Electronics,3.0,Single,3,Yes,52.8,1,11,78,58.76,0
+CUST1161,5,Mobile,Tier 3,5,Debit Card,Female,1.7,1,Groceries,3.0,Married,3,No,27.5,2,30,11,8.3,0
+CUST1162,26,Tablet,Tier 2,19,Credit Card,Female,1.9,4,Home,1.0,Single,1,No,41.3,1,18,39,127.42,0
+CUST1163,55,Mobile,Tier 1,59,Debit Card,Male,6.0,2,Home,,Married,1,No,46.3,1,2,19,119.46,0
+CUST1164,14,Desktop,Tier 1,14,Debit Card,Male,1.7,4,Fashion,4.0,Married,3,Yes,5.5,2,32,37,130.68,0
+CUST1165,39,Mobile,Tier 2,26,E-wallet,Male,2.3,2,Beauty,1.0,Married,2,No,38.1,3,8,2,38.46,0
+CUST1166,27,Desktop,Tier 2,4,Credit Card,Female,7.7,3,Groceries,5.0,Single,2,No,49.7,2,22,27,59.13,0
+CUST1167,9,Mobile,Tier 2,25,Credit Card,Other,2.4,2,Electronics,1.0,Single,1,Yes,11.7,0,6,55,123.92,1
+CUST1168,15,Desktop,Tier 1,45,Credit Card,Female,5.5,4,Fashion,,Married,2,Yes,54.6,2,12,89,119.93,1
+CUST1169,15,Desktop,Tier 1,42,Credit Card,Male,7.8,1,Fashion,2.0,Divorced,3,No,40.9,0,36,12,101.27,0
+CUST1170,26,Tablet,Tier 1,25,E-wallet,Female,3.3,2,Electronics,5.0,Single,1,No,66.7,3,15,76,70.08,0
+CUST1171,42,Mobile,Tier 2,18,Credit Card,Female,0.6,3,Beauty,4.0,Single,3,No,3.0,2,28,65,182.59,0
+CUST1172,13,Mobile,Tier 2,40,E-wallet,Male,2.3,2,Fashion,2.0,Married,1,No,18.6,2,18,36,67.95,0
+CUST1173,51,Mobile,Tier 2,8,Debit Card,Male,6.7,2,Home,1.0,Divorced,1,No,42.1,3,2,48,91.12,0
+CUST1174,32,Desktop,Tier 2,39,E-wallet,Female,7.0,2,Fashion,1.0,Single,1,Yes,20.8,0,13,65,135.62,1
+CUST1175,39,Desktop,Tier 3,40,E-wallet,Male,6.3,3,Electronics,1.0,Single,1,No,50.0,2,15,35,108.6,0
+CUST1176,49,Desktop,Tier 1,14,Debit Card,Female,1.3,4,Fashion,5.0,Married,2,No,53.1,0,20,53,69.38,0
+CUST1177,52,Mobile,Tier 2,32,E-wallet,Male,6.5,2,Electronics,5.0,Single,3,No,7.2,2,29,25,87.13,0
+CUST1178,32,Mobile,Tier 2,51,Debit Card,Male,7.4,2,Fashion,2.0,Single,3,No,36.0,1,29,74,158.9,0
+CUST1179,4,Mobile,Tier 2,38,Debit Card,Male,5.0,1,Beauty,4.0,Married,3,No,35.6,2,3,71,55.63,0
+CUST1180,30,Desktop,Tier 2,33,COD,Male,7.6,3,Groceries,2.0,Married,1,No,25.8,3,19,39,28.45,0
+CUST1181,37,Tablet,Tier 3,23,Credit Card,Female,6.7,2,Groceries,3.0,Single,2,No,65.3,3,3,42,62.63,0
+CUST1182,23,Mobile,Tier 3,15,Credit Card,Male,5.5,3,Electronics,1.0,Married,3,No,57.9,0,14,21,169.91,0
+CUST1183,39,Mobile,Tier 1,33,E-wallet,Female,4.8,2,Electronics,1.0,Married,2,No,48.8,2,4,19,17.8,1
+CUST1184,45,Mobile,Tier 3,25,Credit Card,Female,3.1,4,Electronics,1.0,Married,1,Yes,50.0,0,11,7,198.34,0
+CUST1185,15,Mobile,Tier 2,17,E-wallet,Female,1.7,4,Groceries,2.0,Married,3,Yes,32.3,0,31,28,108.2,0
+CUST1186,43,Desktop,Tier 1,33,Debit Card,Male,5.0,2,Electronics,2.0,Married,2,No,64.5,1,32,39,196.97,0
+CUST1187,29,Mobile,Tier 2,47,COD,Female,2.9,4,Fashion,1.0,Single,1,No,48.6,1,27,89,187.8,0
+CUST1188,36,Mobile,Tier 3,55,E-wallet,Female,7.0,2,Groceries,2.0,Married,2,Yes,51.0,3,30,29,90.56,0
+CUST1189,13,Desktop,Tier 2,2,E-wallet,Male,8.0,4,Fashion,5.0,Married,3,No,60.3,0,2,80,39.7,0
+CUST1190,32,Desktop,Tier 1,14,COD,Male,6.1,1,Electronics,5.0,Married,3,Yes,19.2,3,9,83,32.98,1
+CUST1191,7,Desktop,Tier 2,53,Debit Card,Female,1.2,1,Fashion,2.0,Married,1,No,56.5,2,28,54,48.0,0
+CUST1192,59,Desktop,Tier 1,40,COD,Female,2.7,1,Beauty,1.0,Single,1,No,13.7,0,31,15,142.03,0
+CUST1193,51,Mobile,Tier 1,40,Credit Card,Male,1.3,3,Groceries,2.0,Married,1,No,24.2,0,34,45,54.59,0
+CUST1194,22,Mobile,Tier 1,51,Debit Card,Female,5.4,3,Fashion,2.0,Married,2,No,23.5,2,15,61,68.29,0
+CUST1195,28,Mobile,Tier 1,39,Credit Card,Female,6.2,1,Electronics,2.0,Single,2,No,68.5,2,25,6,89.76,0
+CUST1196,2,Desktop,Tier 1,51,Debit Card,Female,7.4,3,Beauty,3.0,Married,2,Yes,60.0,3,36,79,182.65,0
+CUST1197,42,Mobile,Tier 1,6,Credit Card,Female,3.8,4,Groceries,5.0,Single,1,No,49.1,3,8,44,37.88,0
+CUST1198,45,Mobile,Tier 2,6,E-wallet,Female,7.3,2,Fashion,4.0,Single,3,No,50.9,2,9,58,1.01,1
+CUST1199,57,Desktop,Tier 1,3,E-wallet,Male,7.1,2,Home,4.0,Single,3,No,39.3,3,37,55,12.02,0
+CUST1200,53,Mobile,Tier 1,7,COD,Male,2.9,2,Fashion,3.0,Single,2,No,66.3,2,39,47,180.95,0
+CUST1201,6,Mobile,Tier 3,51,Credit Card,Male,7.0,1,Groceries,2.0,Single,2,Yes,34.7,0,32,26,129.5,0
+CUST1202,28,Mobile,Tier 2,8,E-wallet,Female,3.3,3,Groceries,3.0,Married,3,No,26.6,0,17,52,54.61,0
+CUST1203,28,Mobile,Tier 2,42,Debit Card,Female,2.7,4,Fashion,3.0,Single,3,No,11.4,1,35,86,35.44,0
+CUST1204,44,Desktop,Tier 1,52,Debit Card,Male,5.4,4,Beauty,1.0,Married,2,No,55.0,0,37,87,58.85,0
+CUST1205,44,Mobile,Tier 1,15,Debit Card,Female,3.0,1,Groceries,5.0,Married,2,No,51.4,2,19,72,22.96,0
+CUST1206,20,Mobile,Tier 1,47,Debit Card,Female,5.2,4,Groceries,4.0,Married,3,No,26.9,3,29,34,188.31,0
+CUST1207,30,Mobile,Tier 1,29,E-wallet,Female,5.1,4,Electronics,2.0,Married,1,No,1.8,1,7,50,156.84,1
+CUST1208,11,Mobile,Tier 1,33,E-wallet,Male,4.7,4,Electronics,4.0,Single,2,Yes,58.7,3,28,83,92.48,1
+CUST1209,58,Mobile,Tier 1,52,Debit Card,Female,3.4,4,Fashion,4.0,Married,3,No,0.8,2,9,36,172.99,0
+CUST1210,55,Desktop,Tier 1,30,Credit Card,Male,4.6,3,Home,5.0,Single,3,No,49.3,0,28,80,49.89,0
+CUST1211,28,Desktop,Tier 1,39,Credit Card,Male,5.0,4,Fashion,4.0,Married,3,No,67.9,1,6,56,143.42,1
+CUST1212,25,Mobile,Tier 2,27,Credit Card,Male,4.6,2,Groceries,4.0,Married,3,No,30.6,2,29,7,171.23,0
+CUST1213,39,Desktop,Tier 1,36,COD,Male,3.8,1,Groceries,3.0,Single,1,No,16.4,1,17,78,71.35,0
+CUST1214,33,Mobile,Tier 2,29,Credit Card,Male,0.6,3,Electronics,5.0,Single,3,Yes,49.3,1,16,19,151.49,0
+CUST1215,1,Tablet,Tier 2,38,Credit Card,Female,4.9,4,Groceries,1.0,Married,2,No,57.2,0,23,52,59.01,0
+CUST1216,57,Mobile,Tier 2,57,Debit Card,Male,1.8,3,Electronics,2.0,Married,1,No,38.3,2,31,11,59.77,0
+CUST1217,27,Mobile,Tier 1,33,E-wallet,Female,5.3,4,Beauty,4.0,Married,3,No,67.7,3,3,48,21.41,1
+CUST1218,57,Mobile,Tier 2,37,COD,Male,6.2,2,Fashion,2.0,Single,1,No,3.6,1,21,16,88.01,0
+CUST1219,52,Mobile,Tier 2,27,E-wallet,Female,4.3,1,Electronics,1.0,Married,2,No,35.3,1,26,63,145.94,0
+CUST1220,13,Mobile,Tier 1,55,E-wallet,Female,4.6,4,Fashion,2.0,Single,3,No,50.3,3,36,41,188.04,0
+CUST1221,41,Tablet,Tier 3,33,Debit Card,Male,7.6,4,Fashion,1.0,Married,2,Yes,60.4,2,37,28,120.76,0
+CUST1222,3,Mobile,Tier 3,4,Credit Card,Male,6.9,4,Home,3.0,Divorced,3,No,12.5,1,22,18,172.63,0
+CUST1223,39,Tablet,Tier 1,22,COD,Male,7.4,4,Groceries,4.0,Married,3,No,56.0,1,12,10,164.5,0
+CUST1224,6,Tablet,Tier 1,2,E-wallet,Female,6.6,1,Groceries,1.0,Married,3,No,38.7,1,13,49,34.67,0
+CUST1225,8,Desktop,Tier 3,10,E-wallet,Female,1.3,1,Electronics,2.0,Single,3,Yes,27.8,2,11,70,97.16,1
+CUST1226,27,Desktop,Tier 2,5,E-wallet,Male,1.6,2,Electronics,4.0,Married,3,No,9.2,2,16,57,23.38,0
+CUST1227,9,Desktop,Tier 1,59,E-wallet,Female,4.4,1,Electronics,3.0,Married,1,No,60.6,3,8,33,136.43,0
+CUST1228,37,Desktop,Tier 1,10,E-wallet,Male,2.3,4,Groceries,4.0,Single,3,No,11.0,2,2,19,189.98,0
+CUST1229,33,Desktop,Tier 2,33,COD,Male,4.1,2,Home,1.0,Married,3,Yes,21.7,2,30,49,27.42,1
+CUST1230,51,Mobile,Tier 2,54,COD,Female,3.5,2,Fashion,3.0,Single,1,No,20.3,0,30,87,146.78,0
+CUST1231,42,Desktop,Tier 2,38,E-wallet,Male,4.6,2,Electronics,2.0,Married,1,No,61.0,3,12,9,126.45,0
+CUST1232,44,Desktop,Tier 2,13,E-wallet,Female,6.1,4,Groceries,3.0,Married,1,No,47.1,1,10,31,116.72,0
+CUST1233,24,Mobile,Tier 2,31,Credit Card,Male,5.9,3,Home,3.0,Married,1,No,55.8,2,11,51,78.02,0
+CUST1234,15,Desktop,Tier 2,47,E-wallet,Other,4.4,4,Groceries,5.0,Single,1,No,17.5,1,15,14,71.03,0
+CUST1235,59,Mobile,Tier 1,36,Credit Card,Male,6.7,1,Home,,Married,1,No,43.7,1,16,83,9.05,0
+CUST1236,54,Desktop,Tier 1,45,E-wallet,Male,3.7,1,Fashion,3.0,Married,3,No,40.0,0,17,2,43.58,0
+CUST1237,32,Desktop,Tier 2,24,COD,Female,7.2,4,Electronics,4.0,Married,3,No,58.3,2,26,36,3.04,0
+CUST1238,32,Mobile,Tier 3,52,E-wallet,Male,1.0,4,Home,2.0,Single,2,No,63.4,3,2,39,,1
+CUST1239,24,Mobile,Tier 2,56,Debit Card,Female,7.7,2,Groceries,4.0,Single,3,No,0.9,2,12,71,21.17,0
+CUST1240,41,Mobile,Tier 2,15,Debit Card,Female,5.4,4,Fashion,4.0,Married,3,No,47.2,1,26,39,174.6,0
+CUST1241,52,Mobile,Tier 1,29,Credit Card,Female,3.4,2,Groceries,,Single,1,Yes,3.6,3,23,55,104.63,1
+CUST1242,49,Mobile,Tier 2,8,E-wallet,Female,2.0,1,Home,4.0,Married,1,Yes,38.4,2,18,22,139.94,0
+CUST1243,49,Desktop,Tier 2,5,Credit Card,Female,4.1,2,Groceries,5.0,Married,3,Yes,20.1,1,32,10,82.17,0
+CUST1244,58,Desktop,Tier 1,29,Credit Card,Female,2.0,4,Groceries,5.0,Married,2,No,21.5,1,38,63,112.12,0
+CUST1245,52,Mobile,Tier 1,47,Debit Card,Female,1.7,1,Fashion,1.0,Married,1,No,24.7,0,3,7,188.53,1
+CUST1246,12,Mobile,Tier 2,4,E-wallet,Female,5.1,3,Groceries,2.0,Married,3,Yes,43.5,0,38,55,16.55,1
+CUST1247,39,Tablet,Tier 1,12,E-wallet,Male,4.4,2,Groceries,2.0,Single,3,No,23.4,0,3,59,50.79,1
+CUST1248,2,Mobile,Tier 1,45,Credit Card,Male,5.5,1,Home,4.0,Single,2,No,51.3,1,30,9,156.0,0
+CUST1249,3,,Tier 1,2,Debit Card,Female,7.5,2,Home,4.0,Single,2,No,28.3,2,1,38,19.75,1
